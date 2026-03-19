@@ -1,4 +1,4 @@
-# improvado-marketing-analytics-assignment
+# Marketing analysis
 
 ## Database & Data Modeling
 - Cloud Database: AWS RDS (MySQL)
